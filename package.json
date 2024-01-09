@@ -1,0 +1,22 @@
+{
+  "name": "landing-platzi-api",
+  "version": "1.0.0",
+  "description": "Creating a landing page using a public API",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosmen351/landing-platzi-api.git"
+  },
+  "author": "carlos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosmen351/landing-platzi-api/issues"
+  },
+  "homepage": "https://github.com/carlosmen351/landing-platzi-api#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
